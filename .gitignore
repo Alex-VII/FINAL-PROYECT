@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Compilacion o salida de builds
+dist/
+build/
+
+# Compilaciòn o salida de builds
+dist/
+build/
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Sistema operativos
+.DS_Store
+Thumbs.db
+
+# IDEs y editores
+.vscode/
+.idea/
+*.sudo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Railway
+railway.json
+
+# Archivos grandes o empaquetados
+*.zip
+*.tar.gz
+*.rar
+
+# Teste coverage
+coverage/
+.nyc_output/
